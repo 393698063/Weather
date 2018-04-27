@@ -6,5 +6,5 @@
  
 <img src="./img/zhanshi.jpeg"
 alt="(logo)"
-data-canonical-src="./img/zhanshi.jpeg"
+data-canonical-src="./img/zhanshi.png"
 style="max-width:100%;">
