@@ -4,7 +4,7 @@
  （2）安装依赖 yarn install
  （3）用Xcode打开工程文件 Weather.xcodeproj 运行项目
  
-<img src="./img/zhanshi.jpeg"
+<img src="./img/zhanshi.png"
 alt="(logo)"
 data-canonical-src="./img/zhanshi.png"
 style="max-width:100%;">
